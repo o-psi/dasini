@@ -43,5 +43,4 @@ Dasini's Mansion
            #######HHOHHH###########################
           '::;;;.;; o  :;;;.:;.:;;.;;;;;;;;;;;.:;.:`  H.Classen
           
-  Welcome to Dasini's Mansion. A small game where you find loot, and survive 7 hours until daybreak. Can you do it? Probably,
-  because its not wheighted correctly nor is it very deep. Know any python
+Welcome to Dasini's Mansion. A small game where you find loot, and survive 7 hours until daybreak. Can you do it? Probably, because its not wheighted correctly nor is it very deep. Know any python
